@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full-stack
 - 👯 I’m looking to collaborate on Web-dev projects
 - 🤔 I’m looking for Internships in Front-end
-- 📫 Reach me via [mail](mailto:ed20b054@smail.iitm.ac.in) or WA: https://wa.me/919620916448
+- 📫 Reach me via [E-mail](mailto:ed20b054@smail.iitm.ac.in) or [WA](https://wa.me/919620916448)
 - 😄 Pronouns: He/Him
 
 
