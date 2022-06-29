@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 -->
 
 <p> 
-    <img src="Banner.mp4"
-         width="100%" height="300px"/> 
+    <img src="Banner.gif"
+         width="100%" height="400px"/> 
 </p>
  
-<h1 align="center">Hey 👋, I'm Sagar Nagapnor</h1>
+<!-- <h1 align="center">Hey 👋, I'm Sagar Nagapnor</h1>
 <h3 align="center">I am currently an Engineering Design student at IIT Madras,</h3>
-<h3 align="center">Actively looking for an Internship in Front-End development.</h3>
+<h3 align="center">Actively looking for an Internship in Front-End development.</h3> -->
 
 <hr>
 
