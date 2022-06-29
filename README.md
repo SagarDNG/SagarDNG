@@ -1,20 +1,22 @@
 <!--
 ### Hi there 👋
 **SagarDNG/SagarDNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 💬 Ask me about anything about Front-end
 - ⚡ Fun fact: You know, if you know😂
-
 - 🔭 I’m currently working on Students site, WebOps team, IIT Madras
 - 🌱 I’m currently learning Full-stack
 - 👯 I’m looking to collaborate on Web-dev projects
 - 🤔 I’m looking for Internships in Front-end
 - 📫 Reach me via [E-mail](mailto:ed20b054@smail.iitm.ac.in) or [WA](https://wa.me/919620916448)
 - 😄 Pronouns: He/Him
-
 -->
 
+<p> 
+    <img src="https://lh3.googleusercontent.com/Dze8DfHhM9LbORvrpW1FQmOSlwuzsB7Y1GN7MSOAIIwlx7L_SdT2dYmTm10c7I_7_H9cj1Y_I7eHn5LsIy1NghD8ZBUFk5ZyD9yUnQ=w600"
+         width="100%" height="300px"/> 
+</p>
+ 
 <h1 align="center">Hey 👋, I'm Sagar Nagapnor</h1>
 <h3 align="center">I am currently an Engineering Design student at IIT Madras,</h3>
 <h3 align="center">Actively looking for an Internship in Front-End development.</h3>
