@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 <span> <a href="https://twitter.com/sagardng" target="blank"><img src="https://img.shields.io/twitter/follow/sagardng?logo=twitter&style=for-the-badge" alt="sagardng" /></a> </span>
 
-<hr>
-
 - 🌱 I’m currently learning **the Front end Languages and Frameworks**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
@@ -56,8 +54,6 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/2ePdnShmye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2ePdnShmye" height="30" width="40" /></a>
 </p>
 
-<hr>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -73,8 +69,6 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<hr>
-
 <h3 align="left">Operating Systems:</h3>
 <p align="left">
   <a href="https://android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="bootstrap" height="40"/> </a>
@@ -85,8 +79,10 @@ Here are some ideas to get you started:
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardng&show_icons=true&locale=en&layout=compact" alt="sagardng" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagardng&show_icons=true&locale=en" alt="sagardng" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sagardng&show_icons=true&locale=en" alt="sagardng" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardng&" alt="sagardng" /></p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardng" alt="sagardng" /></a> </p>
+<hr>
+
+<p  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardng" alt="sagardng" /></a> </p>
