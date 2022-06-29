@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <p> 
-    <img src="https://lh3.googleusercontent.com/Dze8DfHhM9LbORvrpW1FQmOSlwuzsB7Y1GN7MSOAIIwlx7L_SdT2dYmTm10c7I_7_H9cj1Y_I7eHn5LsIy1NghD8ZBUFk5ZyD9yUnQ=w600"
+    <img src="Banner.mp4"
          width="100%" height="300px"/> 
 </p>
  
