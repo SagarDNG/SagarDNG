@@ -21,23 +21,38 @@ Here are some ideas to get you started:
 
 <hr>
 
-<span> <img src="https://komarev.com/ghpvc/?username=sagardng&label=Profile%20views&color=0e75b6&style=flat" alt="sagardng" /> </span>
+<p> 
+    <img align="left" src="https://komarev.com/ghpvc/?username=sagardng&label=Profile%20views&color=0e75b6&style=flat" alt="sagardng" /> 
+</p>
 
-<span> <a href="https://twitter.com/sagardng" target="blank"><img src="https://img.shields.io/twitter/follow/sagardng?logo=twitter&style=for-the-badge" alt="sagardng" /></a> </span>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sagardng&theme=highcontrast&show_icons=true&locale=en&custom_title=Sagar's Github Stats"
+       alt="sagardng" width="45%"/>
+</p>
 
-- 🌱 I’m currently learning **the Front end Languages and Frameworks**
+<p align="left">
+  <a href="https://twitter.com/sagardng" target="blank">
+    <img src="https://img.shields.io/twitter/follow/sagardng?logo=twitter&style=for-the-badge" alt="sagardng" />
+   </a> 
+</p>
 
-- 👯 I’m looking to collaborate on **Front-End Projects**
+* 🌱 I’m currently learning **the Front end Languages and Frameworks**
 
-- 💬 Ask me about **JavaScript, React, Bootstrap, Bulma, Semantic-UI**
+* 👯 I’m looking to collaborate on **Front-End Projects**
 
-- 📫 Reach me via **[E-mail](mailto:ed20b054@smail.iitm.ac.in) or [WA](https://wa.me/919620916448)**
+* 💬 Ask me about **JavaScript, React, Bootstrap, Bulma, Semantic-UI**
 
-- 📄 Know about my experiences in this **[Resume](https://docs.google.com/document/d/1V--0XMIfnKd3TO-cvL-CJU7dkNYg8HJxW-8SK-kMszk)**
+* 📫 Reach me via **[E-mail](mailto:ed20b054@smail.iitm.ac.in) or [WA](https://wa.me/919620916448)**
 
-- ⚡ Fun fact **You know, if you know**
+<p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardng&theme=highcontrast" alt="sagardng" width="45%"/>
+</p>
 
-<hr>
+* 📄 Know about my experiences in this **[Resume](https://docs.google.com/document/d/1V--0XMIfnKd3TO-cvL-CJU7dkNYg8HJxW-8SK-kMszk)**
+
+<!-- * ⚡ Fun fact **You know, if you know** -->
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,6 +70,11 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardng&theme=highcontrast&show_icons=true&locale=en&layout=compact&custom_title=Most used languages by Sagar" alt="sagardng" width="45%"/>
+</p>
+
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
@@ -76,13 +96,5 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardng&show_icons=true&locale=en&layout=compact" alt="sagardng" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sagardng&show_icons=true&locale=en" alt="sagardng" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardng&" alt="sagardng" /></p>
-
-<hr>
-
-<p  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardng" alt="sagardng" /></a> </p>
+<p  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardng&theme=onedark" alt="sagardng" /></a> </p>
