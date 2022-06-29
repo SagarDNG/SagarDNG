@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 
 -->
 
-
-
-<h1 align="center">Hi 👋, I'm Sagar Nagapnor</h1>
+<h1 align="center">Hey 👋, I'm Sagar Nagapnor</h1>
 <h3 align="center">I am currently an Engineering Design student at IIT Madras,</h3>
 <h3 align="center">Actively looking for an Internship in Front-End development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagardng&label=Profile%20views&color=0e75b6&style=flat" alt="sagardng" /> </p>
+<hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardng" alt="sagardng" /></a> </p>
+<span> <img src="https://komarev.com/ghpvc/?username=sagardng&label=Profile%20views&color=0e75b6&style=flat" alt="sagardng" /> </span>
 
-<p align="left"> <a href="https://twitter.com/sagardng" target="blank"><img src="https://img.shields.io/twitter/follow/sagardng?logo=twitter&style=for-the-badge" alt="sagardng" /></a> </p>
+<span> <a href="https://twitter.com/sagardng" target="blank"><img src="https://img.shields.io/twitter/follow/sagardng?logo=twitter&style=for-the-badge" alt="sagardng" /></a> </span>
+
+<hr>
 
 - 🌱 I’m currently learning **the Front end Languages and Frameworks**
 
@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences in this **[Resume](https://docs.google.com/document/d/1V--0XMIfnKd3TO-cvL-CJU7dkNYg8HJxW-8SK-kMszk)**
 
 - ⚡ Fun fact **You know, if you know**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,6 +56,8 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/2ePdnShmye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2ePdnShmye" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -69,11 +73,15 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
+<hr>
+
 <h3 align="left">Operating Systems:</h3>
 <p align="left">
   <a href="https://android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="bootstrap" height="40"/> </a>
   <a href="https://www.microsoft.com/en-in/windows" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="bootstrap" height="40"/> </a> 
 </p>
+
+<hr>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardng&show_icons=true&locale=en&layout=compact" alt="sagardng" /></p>
 
@@ -81,3 +89,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardng&" alt="sagardng" /></p>
 
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardng" alt="sagardng" /></a> </p>
