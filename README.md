@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardng&theme=highcontrast&show_icons=true&locale=en&layout=compact&custom_title=Most used languages by Sagar on Github" alt="sagardng" width="45%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardng&theme=highcontrast&show_icons=true&locale=en&layout=compact&custom_title=Most used languages on Github" alt="sagardng" width="45%"/>
 </p>
 
 <p align="left"> 
