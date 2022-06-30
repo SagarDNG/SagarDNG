@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <p> 
     <img src="Banner.gif"
-         width="100%" height="400px"/> 
+         width="100%" height="350px"/> 
 </p>
  
 <!-- <h1 align="center">Hey 👋, I'm Sagar Nagapnor</h1>
