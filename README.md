@@ -50,7 +50,9 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardng&theme=highcontrast" alt="sagardng" width="45%"/>
 </p>
 
-* 📄 Know about my experiences in this **[Resume](https://docs.google.com/document/d/1V--0XMIfnKd3TO-cvL-CJU7dkNYg8HJxW-8SK-kMszk)**
+<!-- * 📄 Know about my experiences in this **[Resume](https://docs.google.com/document/d/1V--0XMIfnKd3TO-cvL-CJU7dkNYg8HJxW-8SK-kMszk)** -->
+
+*  😄 Pronouns: **He/Him**
 
 <!-- * ⚡ Fun fact **You know, if you know** -->
 
@@ -100,4 +102,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardng&theme=onedark" alt="sagardng" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardng&theme=onedark&column=7" alt="sagardng" /></a> </p>
