@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 -->
 
 <p> 
-    <img src="Banner.gif"
+    <img src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"
          width="100%" height="300px"/> 
 </p>
+
+<hr>
  
-<!-- <h1 align="center">Hey 👋, I'm Sagar Nagapnor</h1>
+<h1 align="center">Hey 👋, I'm Sagar Nagapnor</h1>
 <h3 align="center">I am currently an Engineering Design student at IIT Madras,</h3>
-<h3 align="center">Actively looking for an Internship in Front-End development.</h3> -->
+<h3 align="center">Actively looking for an Internship in Full-stack development.</h3>
 
 <hr>
 
@@ -38,13 +40,13 @@ Here are some ideas to get you started:
    </a> 
 </p>
 
-* 🌱 I’m currently learning **the Front end Languages and Frameworks**
+* 🌱 I’m currently learning **the Back end Languages and Frameworks**
 
-* 👯 I’m looking to collaborate on **Front-End Projects**
+* 👯 I’m looking to collaborate on **Full-stack Projects**
 
-* 💬 Ask me about **JavaScript, React, Bootstrap, Bulma, Semantic-UI**
+* 💬 Ask me about **MongoDB, Express, React, Node, JavaScript, Bootstrap, Bulma, Semantic-UI**
 
-* 📫 Reach me via **[E-mail](mailto:ed20b054@smail.iitm.ac.in) or [WA](https://wa.me/919620916448)**
+* 📫 Reach me via **[Smail](mailto:ed20b054@smail.iitm.ac.in) or [Gmail](mailto:sagardng123@gmaIL.com)**
 
 <p>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardng&theme=highcontrast" alt="sagardng" width="45%"/>
