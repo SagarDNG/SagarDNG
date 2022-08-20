@@ -26,17 +26,24 @@ Here are some ideas to get you started:
 <hr>
 
 <p> 
-    <img align="left" src="https://komarev.com/ghpvc/?username=sagardng&label=Profile%20views&color=0e75b6&style=flat" alt="sagardng" /> 
+    <img align="left" src="https://komarev.com/ghpvc/?username=sagardng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views SagarDNG" /> 
 </p>
 
+<!-- If this p doesn't work, uncomment next p 
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sagardng&theme=highcontrast&show_icons=true&locale=en&custom_title=Sagar's Github Stats"
-       alt="sagardng" width="45%"/>
+       alt="SagarDNG's Github Stats" width="45%"/>
+</p>
+-->
+
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sagardng&theme=highcontrast&show_icons=true&locale=en&custom_title=Sagar%27s%20Github%20Stats"
+       alt="SagarDNG's Github Stats" width="45%"/>
 </p>
 
 <p align="left">
   <a href="https://twitter.com/sagardng" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sagardng?logo=twitter&style=for-the-badge" alt="sagardng" />
+    <img src="https://img.shields.io/twitter/follow/sagardng?logo=twitter&style=for-the-badge" alt="Twitter SagarDNG" />
    </a> 
 </p>
 
@@ -49,7 +56,7 @@ Here are some ideas to get you started:
 * 📫 Reach me via **[Smail](mailto:ed20b054@smail.iitm.ac.in) or [Gmail](mailto:sagardng123@gmaIL.com)**
 
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardng&theme=highcontrast" alt="sagardng" width="45%"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardng&theme=highcontrast" alt="SagarDNG" width="45%"/>
 </p>
 
 *  😄 Pronouns: **He/Him**
@@ -76,8 +83,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
+<!-- If this p doesn't work, uncomment next p 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardng&theme=highcontrast&show_icons=true&locale=en&layout=compact&custom_title=Most used languages on Github" alt="sagardng" width="45%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardng&theme=highcontrast&show_icons=true&locale=en&layout=compact&custom_title=Most used languages on Github" alt="Most used languages on Github by SagarDNG" width="45%"/>
+</p>
+-->
+
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagardng&theme=highcontrast&show_icons=true&locale=en&layout=compact&custom_title=Most%20used%20languages%20on%20Github" alt="Most used languages on Github by SagarDNG" width="45%"/>
 </p>
 
 <p align="left"> 
@@ -107,4 +120,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardng&theme=onedark&column=7" alt="sagardng" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardng&theme=onedark&column=7" alt="SagarDNG" /></a> </p>
