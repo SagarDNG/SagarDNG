@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 * 👯 I’m looking to collaborate on **Full-stack Projects**
 
-* 💬 Ask me about **MongoDB, Express, React, Node, JavaScript, Bootstrap, Bulma, Semantic-UI**
+* 💬 Ask me about **MongoDB, Express, React, Node, JavaScript, Bootstrap**
 
 * 📫 Reach me via **[Smail](mailto:ed20b054@smail.iitm.ac.in) or [Gmail](mailto:sagardng123@gmaIL.com)**
 
