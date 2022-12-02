@@ -47,11 +47,11 @@ Here are some ideas to get you started:
    </a> 
 </p>
 
-* 🌱 I’m currently learning **the Back end Languages and Frameworks**
+<!-- * 🌱 I’m currently learning **the Back end Languages and Frameworks** -->
 
 * 👯 I’m looking to collaborate on **Full-stack Projects**
 
-* 💬 Ask me about **MongoDB, Express, React, Node, JavaScript, Bootstrap**
+* 💬 Ask me about **MongoDB, Express, React, Node, JavaScript, TypeScript, Rest APIs, GraphQL APIs, TypeGraphQL, Bootstrap**
 
 * 📫 Reach me via **[Smail](mailto:ed20b054@smail.iitm.ac.in) or [Gmail](mailto:sagardng123@gmaIL.com)**
 
