@@ -2,7 +2,7 @@
 ### Hi there 👋
 **SagarDNG/SagarDNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 💬 Ask me about anything about Front-end
+- 💬 Ask me about anything about DevOps
 - ⚡ Fun fact: You know, if you know😂
 - 🔭 I’m currently working on Students site, WebOps team, IIT Madras
 - 🌱 I’m currently learning Full-stack
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  
 <h1 align="center">Hey 👋, I'm Sagar Nagapnor</h1>
 <h3 align="center">I am currently an Engineering Design student at IIT Madras,</h3>
-<h3 align="center">Actively looking for an Internship in Full-stack development.</h3>
+<!-- <h3 align="center">Actively looking for an Internship in Full-stack development.</h3> -->
 
 <hr>
 
